@@ -1,4 +1,4 @@
-package scoty.springframework;
+package scoty.springframework.sfgpetclinic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

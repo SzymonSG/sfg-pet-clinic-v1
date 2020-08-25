@@ -1,4 +1,4 @@
-package scoty.springframework.model;
+package scoty.springframework.sfgpetclinic.model;
 
 public class PetType {
 
