@@ -1,6 +1,6 @@
 package scoty.springframework.sfgpetclinic.model;
 
-public class PetType {
+public class PetType extends BaseEnity {
 
     private String name;
 

@@ -2,7 +2,7 @@ package scoty.springframework.sfgpetclinic.model;
 
 import java.time.LocalDate;
 
-public class Pet {
+public class Pet extends BaseEnity {
 
     private PetType petType;
     private Owner owner;
